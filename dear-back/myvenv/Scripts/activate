@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\aldie\Desktop\dearalgorithm\dear-back\myvenv"
+VIRTUAL_ENV="C:\Users\aldie\Documents\Git\Web\Back\myvenv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
